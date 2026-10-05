@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="Templates.ItemTemplates/Templates.ItemTemplates.csproj" />
+</Solution>
